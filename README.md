@@ -1,4 +1,3 @@
-````markdown
 # 🎃 Projeto: Convites Secretos para a Festa de Halloween
 
 ## 🕸️ Descrição Geral
